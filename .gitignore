@@ -32,7 +32,6 @@
 *.app
 
 
-#arduino specific
-*.ino
+#compilation files
 bin/
 bin/*
